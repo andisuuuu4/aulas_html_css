@@ -1,0 +1,27 @@
+h2 {
+    font-family: 'Trevuchet MS', ' Lucida Grande','LUcida Sans',Arial, sans-serif;
+    color: blueviolet;
+    font-size: 48px;
+}
+
+p{
+    font-family: 'FRanklin Gothic medium','Arial Marrow', arial, sans-serif;
+    font-size:20px;
+    line-height: 36px;
+}
+
+.vermelho {
+    color: #ff0000;
+}
+
+.text_grande {
+    font-size: 60px;
+}
+
+#titulo_h2 {
+    background: 60px;
+}
+
+#titulo_h2-1 {
+    color: greenyellow
+}
